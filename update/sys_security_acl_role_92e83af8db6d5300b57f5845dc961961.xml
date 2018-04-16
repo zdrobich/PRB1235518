@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>adnan.bezdrob@snc</sys_created_by>
+        <sys_created_on>2018-04-16 09:22:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>92e83af8db6d5300b57f5845dc961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_prb1235518_prb1235518.x_snc_prb1235518.prb1235518_user</sys_name>
+        <sys_package display_value="PRB1235518" source="x_snc_prb1235518">3dc8f2f8db6d5300b57f5845dc961914</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PRB1235518">3dc8f2f8db6d5300b57f5845dc961914</sys_scope>
+        <sys_security_acl display_value="x_snc_prb1235518_prb1235518">5ae83af8db6d5300b57f5845dc96195e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_92e83af8db6d5300b57f5845dc961961</sys_update_name>
+        <sys_updated_by>adnan.bezdrob@snc</sys_updated_by>
+        <sys_updated_on>2018-04-16 09:22:31</sys_updated_on>
+        <sys_user_role display_value="x_snc_prb1235518.prb1235518_user" name="x_snc_prb1235518.prb1235518_user">0ee8b6f8db6d5300b57f5845dc9619eb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

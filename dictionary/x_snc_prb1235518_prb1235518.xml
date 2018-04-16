@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="PRB1235518" max_length="40" name="x_snc_prb1235518_prb1235518" type="collection">
+        <element label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
